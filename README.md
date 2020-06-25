@@ -1,10 +1,3 @@
-## Table of Contents
- - [General Info] (#general-info)
- - [Technologies] (#technologies)
- - [Workflow Outline] (#workflow-outline)
- - [Setup] (#setup)
- - [Reason for Creating] (#reason-for-creating)
-
 ## General Info
 This project is a front-end Pokemon application that hits a GraphQL server, returning Pokemon data.
 Course: Scrimba - Build an app with React and GraphQL (https://scrimba.com/course/greactgraphql)
