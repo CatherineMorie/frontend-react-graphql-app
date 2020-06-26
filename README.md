@@ -1,6 +1,7 @@
 ## General Info
 This project is a front-end Pokemon application that hits a GraphQL server, returning Pokemon data.
-Converted original/simplified app walkthrough on Scrimba to to be hosted on modern browsers before beginning project (see commits).
+Before starting project, set up dev server and scripts to host app on modern browsers (Serve, react-scripts).
+
 Course: Scrimba - Build an app with React and GraphQL (https://scrimba.com/course/greactgraphql)
 
 ## Technologies
@@ -12,7 +13,7 @@ Project is created with:
 * Pokemon open API (https://graphql-pokemon.now.sh/)
 
 ## Workflow Outline
-* Initial setup (file/folder creation, dependencies)
+* Initial setup (file/folder creation, dependencies, scripts, browserslist)
 * Boilerplate code
 * Connect to GraphQL server
 * Create components
