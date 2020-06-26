@@ -20,7 +20,21 @@ Project is created with:
 * Style application
 
 ## Setup
-(TBD)
+```
+Clone repo to local machine
+$ git clone https://github.com/CatherineMorie/frontend-react-graphql-app.git
+
+Change directory to `frontend-react-graphql-app`
+$ cd frontend-react-graphql-app
+
+Install and run completed app from within this directory
+$ npm install
+$ npm start
+```
+Should receive a message stating "Serving!" with two options to connect. Visit either in the browser.
+
+There is also a dev script for running in a browser to view ongoing changes. If used and code changed,
+need to follow up with `npm build` to update the build folder used in prod (via `npm start`).
 
 ## Reason for Creating
 This application was built/course taken as a precursor to using React, GraphQL, Apollo and CSS in an upcoming
