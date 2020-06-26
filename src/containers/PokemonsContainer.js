@@ -1,3 +1,5 @@
+import '../App.css';
+
 import { GET_POKEMONS } from '../graphql/get-pokemons';
 import { Pokemon } from '../components/Pokemon';
 import React from 'react';
